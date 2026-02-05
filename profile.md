@@ -7,17 +7,19 @@ Bhunesh Swami
 ## Interests
 
 * Programming and problem-solving
-* Learning about databases and DBMS concepts
-* Frontend development and clean coding practices
-* Exploring Python and JavaScript
+* Database systems and DBMS concepts
+* Frontend development (HTML, CSS, JavaScript)
+* Writing clean, readable, and maintainable code
+* Learning Python for automation and problem-solving
 
 ## What I Hope to Learn from This Course
 
-* Build a strong foundation in core computer science concepts
-* Write clean, efficient, and readable code
-* Understand how databases are used in real-world applications
-* Improve my problem-solving and logical thinking skills
+* Strengthen my understanding of core computer science fundamentals
+* Learn best practices for clean and efficient coding
+* Understand real-world use cases of databases and software systems
+* Improve logical thinking and debugging skills
+* Gain confidence in building and explaining technical solutions
 
 ## Fun Fact
 
-I enjoy breaking down complex technical topics into simple explanations!
+I enjoy simplifying complex technical concepts so they are easy for anyone to understand!
